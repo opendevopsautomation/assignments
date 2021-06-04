@@ -11,4 +11,4 @@ first in first out policy with the following rules -
 * Once all boarding houses are filled up to capacity, no more students can be allocated.
 * Otherrules
   * Roll numberis a 4 digit integer unique to each student
-  *Student can only be registered once, duplicate commands for same student may be ignored.
+  * Student can only be registered once, duplicate commands for same student may be ignored.
